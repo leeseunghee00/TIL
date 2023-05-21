@@ -48,6 +48,8 @@
 
 
 ### Tech Interview 
+[💻 기술 면접 질문 정리한 벨로그](https://velog.io/@leeseunghee00/series/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84)
+
 * #### Security
   * [쿠키와 세션](https://github.com/leeseunghee00/TIL/blob/main/CS/Security/Cookie_and_Session.md)
 
@@ -61,19 +63,24 @@
   * [DNS](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/DNS.md)
   * [TCP/IP 3 way handshake](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/TCP_IP_3_way_handshake.md)
   * [TLS/SSL handshake](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/TLS_SSL_handshake.md)
+  * [WebSocket과 STOMP](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/WebSocket_Stomp.md)
 
 * #### Data Structure
   * [스택과 큐](https://github.com/leeseunghee00/TIL/blob/main/CS/Data%20Structure/Stack_Queue.md)
   * [리스트](https://github.com/leeseunghee00/TIL/blob/main/CS/Data%20Structure/List.md)
+  * [BFS와 DFS](https://github.com/leeseunghee00/TIL/blob/main/CS/Data%20Structure/BFS_DFS.md)
 
 * #### Operating System
   * [시스템콜](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/System_Call.md)
   * [CPU 스케줄링](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/CPU_Scheduling.md)
+  * [문맥 교환](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/Context_Switching.md)
+  * [교착 상태](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/Deadlock.md)
 
 * #### Database
   * [트랜잭션](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Transacation.md)
   * [교착 상태](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Deadlock.md)
   * [정규화](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Normalization.md)
+  * [Join](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Join.md)
 
 * #### Computer Science
   * [GPU](https://github.com/leeseunghee00/TIL/blob/main/CS/Computer%20Science/GPU.md)
