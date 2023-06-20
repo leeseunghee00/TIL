@@ -64,6 +64,7 @@
   * [TCP/IP 3 way handshake](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/TCP_IP_3_way_handshake.md)
   * [TLS/SSL handshake](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/TLS_SSL_handshake.md)
   * [WebSocket과 STOMP](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/WebSocket_Stomp.md)
+  * [Load_Balancing](https://github.com/leeseunghee00/TIL/blob/main/CS/Network/Load_Balancing.md)
 
 * #### Data Structure
   * [스택과 큐](https://github.com/leeseunghee00/TIL/blob/main/CS/Data%20Structure/Stack_Queue.md)
@@ -75,12 +76,14 @@
   * [CPU 스케줄링](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/CPU_Scheduling.md)
   * [문맥 교환](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/Context_Switching.md)
   * [교착 상태](https://github.com/leeseunghee00/TIL/blob/main/CS/Operating%20System/Deadlock.md)
+  * [페이징과 세그멘테이션](https://github.com/leeseunghee00/TIL/blob/96293dc72a2da4634a2744a5702bf347752f02bf/CS/Operating%20System/Paging_and_Segmentation.md)
 
 * #### Database
   * [트랜잭션](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Transacation.md)
   * [교착 상태](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Deadlock.md)
   * [정규화](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Normalization.md)
   * [Join](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Join.md)
+  * [인덱스](https://github.com/leeseunghee00/TIL/blob/main/CS/Database/Index.md)
 
 * #### Computer Science
   * [GPU](https://github.com/leeseunghee00/TIL/blob/main/CS/Computer%20Science/GPU.md)
@@ -88,6 +91,9 @@
 * #### Spring
   * [Spring](https://github.com/leeseunghee00/TIL/blob/main/CS/Spring/Spring.md)
 
+* #### Design Pattern
+  * [Design Pattern](https://github.com/leeseunghee00/TIL/blob/main/CS/Design%20Pattern/Design_Pattern.md)
+    
 * #### ETC
   * [REST와 REST API](https://github.com/leeseunghee00/TIL/blob/main/CS/ETC/REST.md)
   * [Git](https://github.com/leeseunghee00/TIL/blob/main/CS/ETC/Git.md)
