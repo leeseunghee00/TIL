@@ -30,6 +30,7 @@
 
 * ### Effective Java
   * [Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://leeseunghee00.notion.site/Item-1-665f3366a9a14b57a4616dafef44e59e?pvs=4)
+  * [Item 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://leeseunghee00.notion.site/Item-2-2b18f13777c0425393cb7391d3d6ec94?pvs=4)
     
 <br>
 
