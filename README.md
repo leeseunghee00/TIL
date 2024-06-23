@@ -12,8 +12,7 @@
 ## 분류
 ## Java
 
-* [extends와 implements 차이](https://velog.io/@leeseunghee00/Java-extends%EC%99%80-implements-%EC%B0%A8%EC%9D%B4)
-* ### 이것이 자바다 - 신용권의 Java 프로그래밍 정복
+* ### 이것이 자바다
   * [Chap1 ~ Chap5](https://velog.io/@leeseunghee00/Java-chap-1-5)
   * [Chap6 클래스](https://velog.io/@leeseunghee00/Java-chap-6)
   * [Chap7 상속](https://velog.io/@leeseunghee00/Java-chap-7)
@@ -25,7 +24,13 @@
   * [Chap14 람다식](https://velog.io/@leeseunghee00/Java-Chap14-%EB%9E%8C%EB%8B%A4%EC%8B%9D)
   * [Chap15 컬렉션 프레임워크](https://velog.io/@leeseunghee00/Java-Chap15-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
   * [Chap16 스트림과 병렬 처리](https://velog.io/@leeseunghee00/Chap16-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC)
+  * [extends와 implements 차이](https://velog.io/@leeseunghee00/Java-extends%EC%99%80-implements-%EC%B0%A8%EC%9D%B4)
 
+<br>
+
+* ### Effective Java
+  * [Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://leeseunghee00.notion.site/Item-1-665f3366a9a14b57a4616dafef44e59e?pvs=4)
+    
 <br>
 
 ## OS
