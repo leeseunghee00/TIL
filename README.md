@@ -116,3 +116,5 @@
 
 * ### 자바 ORM 표준 JPA 프로그래밍
   * [01 JPA 소개](https://leeseunghee00.notion.site/01-JPA-9900cab09b1447d58d7c8c3c328ffe5e?pvs=4)
+  * [02 JPA 시작](https://leeseunghee00.notion.site/02-JPA-49f933683ede473991c9bc551b878823?pvs=4)
+
