@@ -111,3 +111,8 @@
 ## Spring
 
 * [Spring 채팅 구현 (STOMP & Redis Pub/Sub)](https://velog.io/@leeseunghee00/Spring-%EC%B1%84%ED%8C%85-%EA%B5%AC%ED%98%84-STOMP-Redis-PubSub)
+
+<br>
+
+* ### 자바 ORM 표준 JPA 프로그래밍
+  * [01 JPA 소개](https://leeseunghee00.notion.site/01-JPA-9900cab09b1447d58d7c8c3c328ffe5e?pvs=4)
