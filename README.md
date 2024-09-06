@@ -120,4 +120,5 @@
   * [03 영속성 관리](https://leeseunghee00.notion.site/03-81e1e1a18dce4e649a9d1fc3656424a1?pvs=4)
   * [04 엔티티 매핑](https://leeseunghee00.notion.site/04-692e65bc4a6f4527b6da377f59844d47?pvs=4)
   * [05 연관관계 매핑 기초](https://leeseunghee00.notion.site/05-21e2c80165d245d29687466048c47ca5?pvs=4)
+  * [06 다양한 연관관계 매핑](https://leeseunghee00.notion.site/06-eb71f93212934b928fe533309a866df6?pvs=4)
   * [10 객체지향 쿼리 언어](https://leeseunghee00.notion.site/10-04cf2368e5b7407280264c4d76aa92a7?pvs=4)
