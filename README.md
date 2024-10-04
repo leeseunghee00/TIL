@@ -32,6 +32,7 @@
   * [Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://leeseunghee00.notion.site/Item-1-665f3366a9a14b57a4616dafef44e59e?pvs=4)
   * [Item 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://leeseunghee00.notion.site/Item-2-2b18f13777c0425393cb7391d3d6ec94?pvs=4)
   * [Item 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://leeseunghee00.notion.site/Item-3-private-956128317c7c48b5ba87bfa1753b25ea?pvs=4)
+  * [Item 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://leeseunghee00.notion.site/Item-4-private-115889b5fe3d80cfb12dedff6f3d6bfe?pvs=4)
     
 <br>
 
