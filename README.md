@@ -123,4 +123,5 @@
   * [04 엔티티 매핑](https://leeseunghee00.notion.site/04-692e65bc4a6f4527b6da377f59844d47?pvs=4)
   * [05 연관관계 매핑 기초](https://leeseunghee00.notion.site/05-21e2c80165d245d29687466048c47ca5?pvs=4)
   * [06 다양한 연관관계 매핑](https://leeseunghee00.notion.site/06-eb71f93212934b928fe533309a866df6?pvs=4)
+  * [07 고급 매핑](https://leeseunghee00.notion.site/07-137889b5fe3d80f4b80bd19ef57df3b4?pvs=4)
   * [10 객체지향 쿼리 언어](https://leeseunghee00.notion.site/10-04cf2368e5b7407280264c4d76aa92a7?pvs=4)
