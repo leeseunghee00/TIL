@@ -34,6 +34,7 @@
   * [Item 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://leeseunghee00.notion.site/Item-3-private-956128317c7c48b5ba87bfa1753b25ea?pvs=4)
   * [Item 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://leeseunghee00.notion.site/Item-4-private-115889b5fe3d80cfb12dedff6f3d6bfe?pvs=4)
   * [Item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://leeseunghee00.notion.site/Item-5-115889b5fe3d80dfa6c4ddd5862b25c9?pvs=4)
+  * [Item 6. 불필요한 객체 생성을 피하라](https://leeseunghee00.notion.site/Item-6-13e889b5fe3d8082bd1ad13792334356?pvs=4)
     
 <br>
 
