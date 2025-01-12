@@ -1,5 +1,8 @@
 # Today I Learned
 하루동안 공부한 것을 기록합니다.
+- [OS](https://github.com/leeseunghee00/TIL/tree/main/OS): Operating System Concepts 10th 을 학습하고 정리합니다.
+- [CS](https://github.com/leeseunghee00/TIL/tree/main/CS): 기술 면접을 준비하기 위해 디자인 패턴, 데이터구조, DB 등을 정리합니다.
+- [README](https://github.com/leeseunghee00/TIL?tab=readme-ov-file#today-i-learned): 노션에서 정리한 학습 내용을 공유합니다.
 
 <br>
 
