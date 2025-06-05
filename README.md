@@ -130,3 +130,10 @@
   * [06 다양한 연관관계 매핑](https://leeseunghee00.notion.site/06-eb71f93212934b928fe533309a866df6?pvs=4)
   * [07 고급 매핑](https://leeseunghee00.notion.site/07-137889b5fe3d80f4b80bd19ef57df3b4?pvs=4)
   * [10 객체지향 쿼리 언어](https://leeseunghee00.notion.site/10-04cf2368e5b7407280264c4d76aa92a7?pvs=4)
+
+ <br>
+
+## Architecture
+
+* ### 가상 면접 사례로 배우는 대규모 시스템 설계 기초
+  * [1장. 사용자 수에 따른 규모 확장성](https://leeseunghee00.notion.site/1-203889b5fe3d80fd9874d9f185f4c17b?source=copy_link) 
