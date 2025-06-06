@@ -136,4 +136,5 @@
 ## Architecture
 
 * ### 가상 면접 사례로 배우는 대규모 시스템 설계 기초
-  * [1장. 사용자 수에 따른 규모 확장성](https://leeseunghee00.notion.site/1-203889b5fe3d80fd9874d9f185f4c17b?source=copy_link) 
+  * [1장. 사용자 수에 따른 규모 확장성](https://leeseunghee00.notion.site/1-203889b5fe3d80fd9874d9f185f4c17b?source=copy_link)
+  * [2장. 개략적인 규모 추정](https://leeseunghee00.notion.site/2-209889b5fe3d805bbabaeb93cd6d2497?source=copy_link)
