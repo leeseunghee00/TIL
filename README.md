@@ -38,6 +38,7 @@
   * [Item 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://leeseunghee00.notion.site/Item-4-private-115889b5fe3d80cfb12dedff6f3d6bfe?pvs=4)
   * [Item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://leeseunghee00.notion.site/Item-5-115889b5fe3d80dfa6c4ddd5862b25c9?pvs=4)
   * [Item 6. 불필요한 객체 생성을 피하라](https://leeseunghee00.notion.site/Item-6-13e889b5fe3d8082bd1ad13792334356?pvs=4)
+  * [Item 7. 다 쓴 객체 참조를 해제하라](https://leeseunghee00.notion.site/Item-7-20d889b5fe3d80ba93e3fc42ff1b4501?source=copy_link)
     
 <br>
 
