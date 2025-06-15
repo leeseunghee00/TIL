@@ -131,6 +131,7 @@
   * [05 연관관계 매핑 기초](https://leeseunghee00.notion.site/05-21e2c80165d245d29687466048c47ca5?pvs=4)
   * [06 다양한 연관관계 매핑](https://leeseunghee00.notion.site/06-eb71f93212934b928fe533309a866df6?pvs=4)
   * [07 고급 매핑](https://leeseunghee00.notion.site/07-137889b5fe3d80f4b80bd19ef57df3b4?pvs=4)
+  * [08 프록시와 연관관계 관리](https://leeseunghee00.notion.site/08-3bf67da181f74bb9a67a39ad87c2d1e0?source=copy_link)
   * [10 객체지향 쿼리 언어](https://leeseunghee00.notion.site/10-04cf2368e5b7407280264c4d76aa92a7?pvs=4)
 
  <br>
