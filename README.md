@@ -44,6 +44,7 @@
     * [Item 6. 불필요한 객체 생성을 피하라](https://leeseunghee00.notion.site/Item-6-13e889b5fe3d8082bd1ad13792334356?pvs=4)
     * [Item 7. 다 쓴 객체 참조를 해제하라](https://leeseunghee00.notion.site/Item-7-20d889b5fe3d80ba93e3fc42ff1b4501?source=copy_link)
     * [Item 8. finalizer와 cleaner 사용을 피하라](https://leeseunghee00.notion.site/Item-8-finalizer-cleaner-20e889b5fe3d809988f4ea032d597d9e?source=copy_link)
+    * [Item 9. try-finally 보다는 try-with-resources 를 사용하라](https://leeseunghee00.notion.site/Item-9-try-finally-try-with-resources-214889b5fe3d80679011e2b2c89a35cc?source=copy_link)
 
 <br>
 
