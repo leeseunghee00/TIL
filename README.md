@@ -46,6 +46,7 @@
     * [Item 8. finalizer와 cleaner 사용을 피하라](https://leeseunghee00.notion.site/Item-8-finalizer-cleaner-20e889b5fe3d809988f4ea032d597d9e?source=copy_link)
     * [Item 9. try-finally 보다는 try-with-resources 를 사용하라](https://leeseunghee00.notion.site/Item-9-try-finally-try-with-resources-214889b5fe3d80679011e2b2c89a35cc?source=copy_link)
     * [Item 10. equals는 일반 규약을 지켜 재정의하라](https://leeseunghee00.notion.site/Item-10-equals-21b889b5fe3d80c5ae86e4ebbea622e6?source=copy_link)
+    * [Item 11. equals를 재정의하려거든 hashCode도 재정의하라](https://leeseunghee00.notion.site/Item-11-equals-hashCode-21b889b5fe3d804ea54ae6460c2bbb27?source=copy_link)
 
 <br>
 
