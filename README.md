@@ -48,6 +48,7 @@
     * [Item 10. equals는 일반 규약을 지켜 재정의하라](https://leeseunghee00.notion.site/Item-10-equals-21b889b5fe3d80c5ae86e4ebbea622e6?source=copy_link)
     * [Item 11. equals를 재정의하려거든 hashCode도 재정의하라](https://leeseunghee00.notion.site/Item-11-equals-hashCode-21b889b5fe3d804ea54ae6460c2bbb27?source=copy_link)
     * [Item 12. toString을 항상 재정의하라](https://leeseunghee00.notion.site/Item-12-toString-21c889b5fe3d80c78eacd2f98ab85565?source=copy_link)
+    * [Item 13. clone 재정의는 주의해서 진행하라](https://leeseunghee00.notion.site/Item-13-clone-21d889b5fe3d8052a953cd8876408904?source=copy_link)
 
 <br>
 
