@@ -145,6 +145,7 @@
     * [08 프록시와 연관관계 관리](https://leeseunghee00.notion.site/08-3bf67da181f74bb9a67a39ad87c2d1e0?source=copy_link)
     * [09 값 타입](https://leeseunghee00.notion.site/09-146889b5fe3d80769830f8ab5390e5fc?source=copy_link)
     * [10 객체지향 쿼리 언어](https://leeseunghee00.notion.site/10-04cf2368e5b7407280264c4d76aa92a7?pvs=4)
+    * [13 웹 애플리케이션과 영속성 관리](https://www.notion.so/leeseunghee00/13-268889b5fe3d8049940ce23154265947?source=copy_link)
 
 <br>
 
