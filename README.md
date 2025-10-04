@@ -168,3 +168,4 @@
 
 * ### AWS Cloud Practitioner Essentials
     * [모듈 2: 클라우드 컴퓨팅](https://leeseunghee00.notion.site/1-27e889b5fe3d80d99b8fdceff2159222?source=copy_link)
+    * [모듈 3: 글로벌 인프라 및 신뢰성](https://leeseunghee00.notion.site/2-280889b5fe3d809393bdeba9f183cd59?source=copy_link)
