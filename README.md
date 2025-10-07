@@ -170,3 +170,4 @@
     * [모듈 2: 클라우드 컴퓨팅](https://leeseunghee00.notion.site/1-27e889b5fe3d80d99b8fdceff2159222?source=copy_link)
     * [모듈 3: 글로벌 인프라 및 신뢰성](https://leeseunghee00.notion.site/2-280889b5fe3d809393bdeba9f183cd59?source=copy_link)
     * [모듈 4: 네트워킹](https://leeseunghee00.notion.site/3-282889b5fe3d8076a6f4ddb2ec43573e?source=copy_link)
+    * [모듈 5: 스토리지 및 데이터베이스](https://leeseunghee00.notion.site/4-282889b5fe3d8017a133fb511e6df78a?source=copy_link)
