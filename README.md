@@ -172,3 +172,4 @@
     * [모듈 4: 네트워킹](https://leeseunghee00.notion.site/3-282889b5fe3d8076a6f4ddb2ec43573e?source=copy_link)
     * [모듈 5: 스토리지 및 데이터베이스](https://leeseunghee00.notion.site/4-282889b5fe3d8017a133fb511e6df78a?source=copy_link)
     * [모듈 6: 보안](https://leeseunghee00.notion.site/5-282889b5fe3d80fc880cea7c6d65a9b6?source=copy_link)
+    * [모듈 7: 모니터링 및 분석](https://leeseunghee00.notion.site/6-282889b5fe3d8084a513dab1dffb951e?source=copy_link)
