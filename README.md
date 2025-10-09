@@ -174,3 +174,4 @@
     * [모듈 6: 보안](https://leeseunghee00.notion.site/5-282889b5fe3d80fc880cea7c6d65a9b6?source=copy_link)
     * [모듈 7: 모니터링 및 분석](https://leeseunghee00.notion.site/6-282889b5fe3d8084a513dab1dffb951e?source=copy_link)
     * [모듈 8: 요금 및 지원](https://leeseunghee00.notion.site/7-282889b5fe3d80819097cdabfd7d7721?source=copy_link)
+    * [모듈 9: 마이그레이션 및 혁신](https://leeseunghee00.notion.site/8-282889b5fe3d80aab2f2ffe32ae29719?source=copy_link)
